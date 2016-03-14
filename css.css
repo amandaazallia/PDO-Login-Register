@@ -1,0 +1,60 @@
+body
+  { padding-left: 11em;font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #2980b9;   }
+.content
+  { margin-top: 150px; margin-left: 220px;width: 500px;height: 350px;
+    background-color:#ecf0f1;text-align:center; border-color: white;   }
+.content2
+  { margin-top:150px;margin-left:220px; width:500px; height:400px;
+    background-color:#ecf0f1; text-align: center;border-color: white;
+    margin-top: 65px;  }
+.notif
+  { margin-top: 30px;margin-left:220px; width:500px; height:20px;
+    background-color:#c0392b; text-align:center;font-family: sans-serif;
+    padding-top:15px; color: #fff; font-size:12px;border-radius: 5px;   }
+.title
+  { width: 100%; height: 10px; background-color:#ecf0f1; color:grey;
+    font-family: sans-serif; text-align: center; padding-top: 40px;  }
+a
+  { color:grey; text-decoration:none; font-family:sans-serif; font-size: 10pt; }
+a:hover
+  {  color:#1abc9c; }
+.form
+  { margin: 25px; }
+
+.input
+  { width:390px; height:35px; float:left; margin-bottom:20px; margin-left: 20px;
+      padding:5px; font-family: sans-serif; color: #95a5a6;
+  }
+
+.tombol
+  { width:100px; height:40px; cursor:pointer; border:0px;
+    font-family:sans-serif; color: #fff; background-color: #1abc9c;
+  }
+.tombol:hover
+  {  background-color:#86e2d5; color:#fff; transition: 0.5s; }
+
+.input_a
+  { width:390px; height:35px; float:left; margin-bottom:5px; margin-left:20px;
+    padding:4px; font-family: sans-serif; color: #95a5a6;
+  }
+.input_b'
+  { width:390px; height:35px; float: left; margin-bottom:5px; margin-left: 20px;
+    padding:4px; font-family:sans-serif; color: #95a5a6;
+  }
+.input_c
+  {  width: 390px; height: 35px; float: left; margin-bottom:5px;
+    margin-left: 20px;padding:4px; font-family: sans-serif;  color: #95a5a6;
+  }
+.input_d
+  {  width: 390px; height: 35px; float: left; margin-bottom:25px;
+    margin-left: 20px; padding:4px; font-family: sans-serif; color: #95a5a6;
+  }
+.button
+  {  width:50%; height:40px; cursor:pointer;border: 0px;font-family: sans-serif;
+     color: #fff;background-color: #1abc9c; margin-top: 100px;
+  }
+.button:hover
+  { background-color:#86e2d5; color:#fff;transition: 0.5s; }
+a.hal
+  {  margin-top: 300px; }
